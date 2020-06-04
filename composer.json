@@ -1,11 +1,11 @@
 {
-    "name": "96qbhy/tt-microapp",
+    "name": "themismin/tt-microapp",
     "description": "字节跳动小程序sdk",
     "license": "MIT",
     "authors": [
         {
             "name": "qbhy",
-            "email": "96qbhy@gmail.com"
+            "email": "themismin@gmail.com"
         }
     ],
     "require": {
@@ -15,14 +15,6 @@
         "ext-openssl": "*",
         "ext-curl": "*",
         "ext-redis": "*"
-    },
-    "require-dev": {
-        "hyperf/utils": "^1.1"
-    },
-    "suggest": {
-        "96qbhy/alipay": "dev-master",
-        "hyperf/guzzle": "^1.1",
-        "hyperf/di": "^1.1"
     },
     "autoload": {
         "psr-4": {

@@ -13,7 +13,7 @@
 
 ## 安装 - install
 ```bash
-$ composer require 96qbhy/tt-microapp 
+$ composer require themismin/tt-microapp 
 ```
 
 ## 使用 - usage
@@ -61,4 +61,4 @@ var_dump($app->payment); // 支付
 
 php吹水交流群请添加: 873213948  
 https://github.com/qbhy/tt-microapp  
-96qbhy@gmail.com
+themismin@gmail.com

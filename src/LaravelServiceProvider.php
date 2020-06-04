@@ -8,7 +8,7 @@ use Laravel\Lumen\Application;
 /**
  * Class LaravelServiceProvider
  *
- * @author  qbhy <96qbhy@gmail.com>
+ * @author  qbhy <themismin@gmail.com>
  *
  * @package Qbhy\BaiduAIP
  */
